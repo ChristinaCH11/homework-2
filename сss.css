@@ -40,7 +40,7 @@ li:hover{
 	display: inline-block;
 	width:400px;
 }
-.LC{
+.SP{
 	text-align:center;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 17px;
@@ -49,14 +49,14 @@ li:hover{
 .centr{
 	margin-left: 70px;
 }
-.PR{
+.FT{
 	color: black;
 	font-size: 17px;
 	text-align: center;
 	vertical-align: middle;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.HL{
+.LC{
 	font-size: 17px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	text-align: center;
